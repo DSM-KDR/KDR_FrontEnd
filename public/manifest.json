@@ -1,0 +1,40 @@
+{
+  "short_name": "키다리아저씨",
+  "name": "키다리아저씨 푸드",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "128x128 64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "scope": ".",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#333333",
+  "background_color": "#ffffff"
+}
